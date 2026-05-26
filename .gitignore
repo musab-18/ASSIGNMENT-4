@@ -1,0 +1,28 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE / Editor Configuration
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+.localized
+Thumbs.db
+
+# Heavy Datasets (we keep Data.rar in Git, but ignore extracted folders)
+Data/
+lfw_home/
+
+# Temporary / Output text logs
+gender_output.txt
