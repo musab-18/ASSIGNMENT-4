@@ -120,8 +120,7 @@ The accompanying academic report `report.md` includes rigorous analysis and LaTe
 ---
 
 ## 🎓 Authors & License
-Developed as part of the **Machine Learning Semester 6 curriculum**.  
-* **Lead AI Pair Programmer**: Antigravity AI  
+Developed as part of the **Machine Learning Semester 6 curriculum**.   
 * **Student Author**: Musab (Roll 050)  
 
 Licensed under the **MIT License**. Open-source contribution and learning are encouraged!
